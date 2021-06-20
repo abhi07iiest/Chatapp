@@ -1,4 +1,4 @@
-# Unichat Application
+# Chat Application
 
 The chat application is build using Firbase for Authentication and Chatengine.io(Thanks for providing smooth chating Platform)
 
