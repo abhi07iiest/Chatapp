@@ -1,5 +1,5 @@
 # Chat Application
 
-The chat application is build using Firbase for Authentication and Chatengine.io(Thanks for providing smooth chating Platform)
+The chat/Video chat application is build using Firbase for Authentication and Chatengine.io(Thanks for providing smooth chating Platform)
 
-Link for My chat Application :- https://chatify-chat.netlify.app/
+Link for My chat Application :- https://chatzilla.netlify.app/
